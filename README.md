@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Soullevram
-- 👀 I’m interested in R, Python, SQL, Perl, and Galaxy - with a soft spot for R.
+- 👀 I’m interested in Genomic Data Science - with emphasis on Statistical Genomics, NGS and WGS data analysis.
 - 🌱 I’m currently learning other programming languages.
 - 💞️ I’m looking to collaborate on projects related to Genomic Data Science.
 - 📫 How to reach me: marveloye@gmail.com
