@@ -2,7 +2,7 @@
 - 👀 I’m interested in Genomic Data Science - with emphasis on Statistical Genomics, NGS and WGS data analysis.
 - 🌱 I’m currently learning other programming languages.
 - 💞️ I’m looking to collaborate on projects related to Genomic Data Science.
-- 📫 How to reach me: marveloye@gmail.com or ooyebanjo@stu.ui.edu.ng
+- 📫 How to reach me: marveloye@gmail.com or ooyebanjo488@stu.ui.edu.ng
 
 <!---
 Soullevram/Soullevram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
