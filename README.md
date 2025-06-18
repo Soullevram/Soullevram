@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Soullevram
-- 👀 I’m interested in Genomic Data Science - with emphasis on Statistical Genomics, NGS and WGS data analysis.
-- 🌱 I’m proficient in R and Python and currently learning other programming languages.
-- 💞️ I’m looking to collaborate on projects related to Genomic Data Science.
-- 📫 How to reach me: marveloye@gmail.com or ooyebanjo488@stu.ui.edu.ng
+- Hi, I’m @Soullevram
+- I’m interested in Genomic Data Science - with emphasis on Statistical Genomics, NGS and WGS data analysis.
+- I’m proficient in R and Python and currently learning other programming languages.
+- I’m looking to collaborate on projects related to Genomic Data Science.
+- How to reach me: marvel.oye.bioinformatics@gmail.com or  ooyebanjo488@stu.ui.edu.ng
 - Visit my <a href="https://www.researchgate.net/profile/Marvellous-Oyebanjo-2">Research Gate Profile</a> or <a href="https://scholar.google.com/citations?user=mdVu6S0AAAAJ&hl=en">Google Scholar Profile</a>
  
 
