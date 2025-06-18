@@ -5,7 +5,7 @@
 - How to reach me: marvel.oye.bioinformatics@gmail.com or  ooyebanjo488@stu.ui.edu.ng
 - Visit my <a href="https://www.researchgate.net/profile/Marvellous-Oyebanjo-2">Research Gate Profile</a> or <a href="https://scholar.google.com/citations?user=mdVu6S0AAAAJ&hl=en">Google Scholar Profile</a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soullevram)](https://github.com/Soullevram/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soullevram)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Soullevram/Soullevram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
