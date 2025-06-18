@@ -3,8 +3,7 @@
 - 🌱 I’m proficient in R and Python and currently learning other programming languages.
 - 💞️ I’m looking to collaborate on projects related to Genomic Data Science.
 - 📫 How to reach me: marveloye@gmail.com or ooyebanjo488@stu.ui.edu.ng
-- <img src="https://c5.rgstatic.net/m/413609345001177/images/icons/svgicons/rg-logo-short-no-space.svg" alt="ResearchGate Profile"> <a href="https://www.researchgate.net/profile/Marvellous-Oyebanjo-2">ResearchGate Profile</a>
-
+- Visit my <a href="https://www.researchgate.net/profile/Marvellous-Oyebanjo-2">Research Gate Profile</a> or <a href="https://scholar.google.com/citations?user=mdVu6S0AAAAJ&hl=en">Google Scholar Profile</a>
  
 
 <!---
